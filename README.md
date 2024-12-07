@@ -1,8 +1,9 @@
-# Hello! 👋
+Hello, world!
 
-Engineer, who is accumulating experience in data engineering, container development, and project management.
-I have used Podman, Spark, Kafka, Python, Java, and Rust for development. I'm also sharing some tender moments in life and
+I am a engineer accumulating experience in data engineering, container development, and project management.
+I have used Podman, Linux, Spark, Kafka, Python, Java, and Rust for development. I'm also sharing some tender moments in life and
 discover the beauty of the world through eyes of an engineer.
+
 
 threads: [atender.moment](https://www.threads.net/@atender.moment)
 
