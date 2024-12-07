@@ -2,14 +2,11 @@ Hello, world!
 
 I am an engineer accumulating experience in data engineering, container development, and project management.
 I have used Podman, Linux, Spark, Kafka, Python, Java, and Rust for development. I'm also sharing some tender moments in life and
-discover the beauty of the world through eyes of an engineer.
+discover the beauty of the world through eyes of an engineer. 
+
+Find me on **my notion blog** ([tzuwei93-blog](https://www.notion.so/tzuwei93-blog-76922eb4a4d24c1380d3f27711b09b7d?pvs=21)), **threads** ([atender.moment](https://www.threads.net/@atender.moment)), **ig** ([atender.moment](https://www.notion.so/Atender-moment-9e667dad9e0248a8b7d41ed2f9ed378a?pvs=21)), and **csdn** ([qq_33387068](https://blog.csdn.net/qq_33387068), formerly).
 
 
-threads: [atender.moment](https://www.threads.net/@atender.moment)
-
-ig: [atender.moment](https://www.notion.so/Atender-moment-9e667dad9e0248a8b7d41ed2f9ed378a?pvs=21)
-
-blog: [tzuwei93-blog](https://www.notion.so/tzuwei93-blog-76922eb4a4d24c1380d3f27711b09b7d?pvs=21)
 
 <!--
 **tzuwei93/tzuwei93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
